@@ -4,13 +4,13 @@ A simple yet functional Counter Application built using **HTML**, **CSS**, and *
 
 ## 🚀 Live Preview
 
-[Click here to try the Counter App](#) <https://github.com/shIVam18004/Counter_App/deployments/github-pages>
+[Click here to try the Counter App](#) (https://shivam18004.github.io/Counter_App/)
 
 ---
 
 ## 📸 Screenshots
 
-![Counter Application Screenshot](screenshot.png) <https://github.com/shIVam18004/Counter_App/blob/main/Counter_app.png >
+![Counter Application Screenshot](screenshot.png) (https://github.com/shIVam18004/Counter_App/blob/main/Counter_app.png )
 
 ---
 
