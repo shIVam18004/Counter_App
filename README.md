@@ -4,24 +4,24 @@ A simple yet functional Counter Application built using **HTML**, **CSS**, and *
 
 ## 🚀 Live Preview
 
-[Click here to try the Counter App](#) (https://shivam18004.github.io/Counter_App/)
+[Click here to try the Counter App](https://shivam18004.github.io/Counter_App/)
 
 ---
 
 ## 📸 Screenshots
 
-![Counter Application Screenshot](screenshot.png) (https://github.com/shIVam18004/Counter_App/blob/main/Counter_app.png )
+![Counter Application Screenshot](https://github.com/shIVam18004/Counter_App/blob/main/Counter_app.png)
 
 ---
 
 ## 🛠️ Features
 
-- Increment the counter with a `+` button
-- Decrement the counter with a `–` button
-- Reset the counter back to `0`
-- Dynamic real-time counter updates using JavaScript
-- Prevent or allow negative values as per logic
-- Clean, centered UI with shadow and hover effects
+- Increment the counter with a `+` button  
+- Decrement the counter with a `–` button  
+- Reset the counter back to `0`  
+- Dynamic real-time counter updates using JavaScript  
+- Prevent or allow negative values as per logic  
+- Clean, centered UI with shadow and hover effects  
 
 ---
 
@@ -29,20 +29,20 @@ A simple yet functional Counter Application built using **HTML**, **CSS**, and *
 
 During the development of this project, I gained hands-on experience in:
 
-- 🧱 Structuring a basic HTML page and linking external CSS/JS files
-- 🎨 Styling components using CSS flexbox and box-shadow
-- 🧩 Manipulating the DOM with JavaScript
-- 🔁 Adding interactivity with event listeners
-- 🐞 Debugging JavaScript errors like method misuse (e.g., `getElementsById`)
-- 💡 Understanding logical conditions for counters (like allowing or preventing negatives)
+- 🧱 Structuring a basic HTML page and linking external CSS/JS files  
+- 🎨 Styling components using CSS flexbox and box-shadow  
+- 🧩 Manipulating the DOM with JavaScript  
+- 🔁 Adding interactivity with event listeners  
+- 🐞 Debugging JavaScript errors like method misuse (e.g., `getElementsById`)  
+- 💡 Understanding logical conditions for counters (like allowing or preventing negatives)  
 
 ---
 
 ## 📂 Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
 
 ---
 
@@ -50,5 +50,4 @@ During the development of this project, I gained hands-on experience in:
 
 1. Clone the repository:
    ```bash
-  [ git clone https://github.com/your-username/counter-app.git](https://github.com/shIVam18004/Counter_App.git)
-
+   git clone https://github.com/shIVam18004/Counter_App.git
