@@ -50,5 +50,5 @@ During the development of this project, I gained hands-on experience in:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/counter-app.git
+  [ git clone https://github.com/your-username/counter-app.git](https://github.com/shIVam18004/Counter_App.git)
 
